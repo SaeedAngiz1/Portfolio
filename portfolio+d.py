@@ -7,7 +7,7 @@ import os
 # ---------- CONFIG ----------
 st.set_page_config(
     page_title="Saeed Angiz Portfolio",
-    page_icon="🌴🌠",
+    page_icon="🌱",
     layout="centered",
     initial_sidebar_state="collapsed",
 )
@@ -210,4 +210,5 @@ st.markdown(
     unsafe_allow_html=True,
 
 )
+
 
