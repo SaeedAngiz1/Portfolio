@@ -116,7 +116,7 @@ col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
     st.image(im, output_format="PNG", width=200)
     st.markdown('<div class="main-title">Angiz Saeed</div>', unsafe_allow_html=True)
-    st.markdown('<div class="sub-title">Data Scientist | ML Engineer | Pythonista 🌴</div>', unsafe_allow_html=True)
+    st.markdown('<div class="sub-title">Data Scientist 🧬 | ML Engineer 🤖 | Junior Python Developer 🌴</div>', unsafe_allow_html=True)
 
 # About
 with st.container():
@@ -208,4 +208,5 @@ st.markdown(
     </div>
     """,
     unsafe_allow_html=True,
+
 )
