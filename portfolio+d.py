@@ -115,7 +115,7 @@ st.markdown(
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
     st.image(im, output_format="PNG", width=200)
-    st.markdown('<div class="main-title">Mohammad Saeed Angiz</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-title">Saeed Angiz</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-title">Data Scientist 🧬 | ML Engineer 🤖 | Junior Python Developer 🌴</div>', unsafe_allow_html=True)
 
 # About
@@ -210,6 +210,7 @@ st.markdown(
     unsafe_allow_html=True,
 
 )
+
 
 
 
