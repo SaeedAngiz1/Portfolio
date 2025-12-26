@@ -204,12 +204,13 @@ with st.container():
 st.markdown(
     """
     <div style='text-align:center; margin-top:60px; color:#ffffff; text-shadow:1px 1px 3px #000;'>
-    Made with ❤️ and Streamlit | © 2026 Angiz Saeed
+    Made with ❤️ and Streamlit | © 2026 Saeed Angiz 
     </div>
     """,
     unsafe_allow_html=True,
 
 )
+
 
 
 
